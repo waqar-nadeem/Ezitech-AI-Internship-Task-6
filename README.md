@@ -6,9 +6,6 @@
 
 > AI-powered tool that turns raw meeting transcripts into concise, actionable reports for **Mehfil Event Planners**.
 
-**Live Demo:** [https://mehfil-summariser.streamlit.app](https://mehfil-summariser.streamlit.app)  
-*(Replace with your actual Streamlit Community Cloud URL after deployment)*
-
 ---
 
 ## ✨ Features
@@ -117,7 +114,7 @@ See **[HandOver_Mehfil.pdf](HandOver_Mehfil.pdf)** for a one-page summary of arc
 **Waqar Nadeem**  
 Ezitech AI Internship – Intermediate Level  
 Client: Mehfil Event Planners  
-Tasks 1–6 completed (27 Oct – 13 Nov 2026)
+Tasks 1–6 completed (27 Oct – 11 Nov 2026)
 
 ---
 
